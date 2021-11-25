@@ -1,4 +1,5 @@
 #!/bin/bash
+plexmeta
 function plexmeta() {
     sudo git clone --quiet https://github.com/demondamz/PG-Plex-Meta-Manager.git /opt/plex-meta
     cd /opt/plex-meta
@@ -17,4 +18,3 @@ function plexmeta() {
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 EOF
 }
-plexmeta
