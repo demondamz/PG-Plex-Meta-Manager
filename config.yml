@@ -43,7 +43,7 @@ tmdb:
   language: en
 tautulli:                   # Can be individually specified per library as well
   url: http://tautulli:8181
-  apikey: 0c6018f3f07b4550a2b9140563e030f3
+  apikey: ###########
 radarr:                     # Can be individually specified per library as well
   url: http://radarr:7878
   token: #####################
