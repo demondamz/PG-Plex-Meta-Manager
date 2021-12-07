@@ -32,3 +32,9 @@ You will find the config files listed below
 
 Within the config.yml you will to edit the config based on your plex,sonarr & radarr
 
+Trakt List Use:
+- Create a Trakt API application.
+- Choose a Name for the application.
+- Enter urn:ietf:wg:oauth:2.0:oob for Redirect uri.
+- Click the SAVE APP button.
+- Note down the Client ID and Client Secret.
