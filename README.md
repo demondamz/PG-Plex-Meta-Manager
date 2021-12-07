@@ -30,4 +30,5 @@ You will find the config files listed below
 - movies.yml
 -tv.yml
 
-Within the config.yml you will to edit the config 
+Within the config.yml you will to edit the config based on your plex,sonarr & radarr
+
