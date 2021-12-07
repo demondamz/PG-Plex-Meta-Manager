@@ -14,3 +14,20 @@ Add custom overlays for your media, including 4K and HDR overlays/banners.
 Using YAMLs to edit media metadata such as titles, sort titles, and descriptions.
 
 Adding custom episode orders for Plex via YAMLs.
+
+
+Installation
+Plex Meta Manager install for Plex Guide/PTS/MHA/Pandora 
+
+
+curl -fsSl https://raw.githubusercontent.com/demondamz/PG-Plex-Meta-Manager/main/PGPMM-install.sh | sudo bash 
+
+Within your Appdata directory /opt/appdata/plex-meta-manager/app
+
+You will find the config files listed below 
+
+- config.yml
+- movies.yml
+-tv.yml
+
+Within the config.yml you will to edit the config 
