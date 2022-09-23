@@ -19,9 +19,9 @@ Adding custom episode orders for Plex via YAMLs.
 Installation
 Plex Meta Manager install for Plex Guide/PTS/MHA/Pandora 
 
-
+```
 curl -fsSl https://raw.githubusercontent.com/demondamz/PG-Plex-Meta-Manager/main/PGPMM-install.sh | sudo bash 
-
+```
 Within your Appdata directory /opt/appdata/plex-meta-manager/app
 
 You will find the config files listed below 
